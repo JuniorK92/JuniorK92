@@ -2,7 +2,7 @@
 
 😏 I'm working with some xamarin projects in my free time *(🤦‍♂️ kinda)*. 
 
-😅 Currently I work with WinForms in an in house development project for a manufacturing company.
+😅 Currently I work with an in house developed ERP at RichlineGroup.
 
 🥰 I like .Net but love technology more so I'm always looking for new things.
 
