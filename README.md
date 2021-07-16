@@ -11,6 +11,17 @@
 🧐 I’m looking to collaborate on mobile or web projects but I'm open help in any other kinda project you may been on.
 
  📫 If you want to you can reach me at jk_92@live.com
+ 
+ 
+ ## 😅 Stats 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorK92&show_icons=true&theme=outrun&border_radius=30)](https://github.com/JuniorK92)
+
+## 😯
+
+*Always code as if the guy who ends up maintaining your code will be a
+violent psychopath who knows where you live. Code for readability.*
+John F. Woods
 
 <!---
 JuniorK92/JuniorK92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
