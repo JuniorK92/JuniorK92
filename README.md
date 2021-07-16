@@ -13,7 +13,7 @@
  📫 If you want to you can reach me at jk_92@live.com
  
  
- ## 😅 Stats 
+ ## 😅 A Card With Some Stats 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorK92&show_icons=true&theme=outrun&border_radius=30)](https://github.com/JuniorK92)
 
