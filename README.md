@@ -1,16 +1,16 @@
 # Hi 👋 I’m Junior
 
-😏 I'm working with some xamarin projects in my free time *(🤦‍♂️ kinda)*. 
+😏 I try to work with some Xamarin projects in my free time (🤦‍♂️ kinda).
 
-😅 Currently I'm working with an in house ERP development at Richline Group.
+😅 Currently I work in the development of an in house ERP at Richline Group.
 
 🥰 I like .Net but love technology more so I'm always looking for new things.
 
-😁 I'm *"polishing"* my mobile and web development skills.
+😁 I'm "polishing" my mobile and web development skills.
 
-🧐 I’m looking to collaborate on mobile or web projects but I'm open help in any other kinda project you may been on.
+🧐 I’m looking to collaborate on mobile or web projects but I'm open help in any other kind of project you may been on.
 
- 📫 If you want to you can reach me at jk_92@live.com
+📫 If you want to you can reach me at jk_92@live.com
  
  
  ## 😅 A Card With Some Stats 
@@ -22,7 +22,7 @@
 *Always code as if the guy who ends up maintaining your code will be a
 violent psychopath who knows where you live. Code for readability.*
 
-John F. Woods
+*John F. Woods*
 
 <!---
 JuniorK92/JuniorK92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
