@@ -10,7 +10,7 @@
 
 🧐 I’m looking to collaborate on mobile or web projects but I'm open help in any other kinda project you may been on.
 
- 📫 If you want to you can reach me at jk_92@icloud.com
+ 📫 If you want to you can reach me at jk_92@live.com
 
 <!---
 JuniorK92/JuniorK92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
