@@ -6,9 +6,9 @@
 
 🥰 I like .Net but love technology more so I'm always looking for new things.
 
-😁 I'm "polishing" my mobile and web development skills.
+😁 I'm "polishing" my Xamarin development skills.
 
-🧐 I’m looking to collaborate on mobile or web projects but I'm open help in any other kind of project you may been on.
+🧐 I’m looking to collaborate on Xamarin projects but I'm open to help in any other kind of project you may been on.
 
 📫 If you want to you can reach me at jk_92@live.com
  
