@@ -1,14 +1,10 @@
 # Hi 👋 I’m Junior
 
-😏 I try to work with some Xamarin projects in my free time (🤦‍♂️ kinda).
+😅 I'm currently working as a backend software developer.
 
-😅 Currently I work in the development of an in house ERP at Richline Group.
+🥰 I like .Net but love technology so I'm always looking for new things.
 
-🥰 I like .Net but love technology more so I'm always looking for new things.
-
-😁 I'm "polishing" my Xamarin development skills.
-
-🧐 I’m looking to collaborate on Xamarin projects but I'm open to help in any other kind of project you may been on.
+🧐 I’m available to collaborate on any other project you may have.
 
 📫 If you want to you can reach me at jk_92@live.com
  
