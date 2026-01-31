@@ -1,6 +1,6 @@
 # Hi 👋 I’m Junior
 
-😅 I'm currently working as a backend software developer.
+😅 I'm a Software Developer. 
 
 🥰 I like .Net but love technology so I'm always looking for new things.
 
